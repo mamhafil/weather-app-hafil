@@ -1,0 +1,30 @@
+---------SMS API Keys----------------
+
+
+username = 'ADo56';
+password = 'ABCd123';
+api_key = 'fb2195de625198e79e2ca2c1eb06410c-b30d3f7d-3066-4a21-bcc1-d372784f424e';
+
+
+username = 'mamhafil';
+password = '@zRcVaebf65tkT6Q';
+api_key = '7258a16b1a0197814d6d87c645712294-702efab2-e2c2-4f9d-8bfa-d853dca7200e';
+
+const username = 'mamhafil7864';
+password = '@Hafil19290';
+apiKey = '9a3aba122056eb19a63fe3d0b96d08d3-7760b94b-6237-473f-aad5-5a3ecbe753b6';
+  
+
+'anafa2001';
+'Afrath2001';
+'1bc3fe549a58baf93e5b70990cc6a2cc-4c9b0f68-af5e-4a6d-b9ef-b80174b55faf'
+
+$username = 'azkysarafath';
+$password = 'yJZVqHb@5ypguB6';
+$api_key = 'a50432bc1a6eaecd73f2f3071beb144c-942a3b5f-cb90-4f33-950d-467ebeac6b89';
+
+
+-------Weather cost API Keys---------------
+
+
+WEATHER_API_URL = `https://api.openweathermap.org/data/2.5/forecast?lat=${latitude}&lon=${longitude}&appid=${API_KEY}
